@@ -1,0 +1,2 @@
+# connect-home
+Connect Home is a smart home app which can make your home smarter by connecting basically anything in your home with your smartphone through the internet. It is an application of IOT (Internet Of Things). It has a weather feature which shows you the weather of your location and a smooth UI which make it easy to control your home with just your smartphone! It is a demo and alot more can be added to make it a real practical application.
